@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.calendarcolor{
+  z-index: 5;
+  background-color: beige;
+}
