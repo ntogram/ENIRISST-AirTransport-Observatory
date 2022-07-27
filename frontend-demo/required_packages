@@ -1,0 +1,10 @@
+Modules need to be installed
+material ui (v4)
+material ui icons(v4)
+react leaflet 
+chart js
+npm install react-icons --save
+npm install intro.js-react
+npm install react-csv --save;
+
+npm i react-leaflet-curve
